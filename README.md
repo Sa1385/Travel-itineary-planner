@@ -5,7 +5,7 @@ A Fullstack Tours & Travels Web App Using MERN Stack 💫
 
 ## Backend Repository
 
-- [TravelWorld Backend Repository](https://github.com/shuence/Bakend-for-TravelWorld)
+- [TravelWorld Backend Repository](https://github.com/Sa1385/Bakend-for-TravelWorld)
 
 ## Resources
 
@@ -16,11 +16,7 @@ A Fullstack Tours & Travels Web App Using MERN Stack 💫
 
 ## Authors
 
-- [@Shuence](https://www.github.com/shuence) 💫
-
-## Badges
-
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+- [@Saini](https://www.github.com/Sa1385) 💫
 
 ## Live Preview
 
@@ -101,11 +97,11 @@ Overall, this project marked a significant milestone in my journey as a full-sta
 - Integrate geolocation services for location-based tour suggestions.
 - Implement a user dashboard for managing and tracking bookings.
 
-# Hi, I'm Shuence! 👋
+# Hi, I'm Saini! 👋
 
 ## 🚀 About Me
 
-I'm Shubham Pitekar, a passionate full-stack developer with expertise in ReactJS,NextJS, NodeJs,ExpressJS and MongoDb. I love turning ideas into reality on the web. I thrive on challenges and continuously seek opportunities to push my boundaries. Let's create impactful projects together!
+I'm Saini Patro, a passionate full-stack developer with expertise in ReactJS,NextJS, NodeJs,ExpressJS and MongoDb. I love turning ideas into reality on the web. I thrive on challenges and continuously seek opportunities to push my boundaries. Let's create impactful projects together!
 
 ## 🛠 Skills
 
@@ -113,4 +109,4 @@ JavaScript, HTML, CSS, React, Bootstrap, Node.js, Express, MongoDB.
 
 ## Happy coding 💯
 
-Made with love from [Shuence](https://shuence.netlify.app) ❤️
+Made with love from [Saini](https://shuence.netlify.app) ❤️
