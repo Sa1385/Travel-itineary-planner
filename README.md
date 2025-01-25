@@ -24,7 +24,7 @@ A Fullstack Tours & Travels Web App Using MERN Stack 💫
 
 ![image](https://github.com/Sa1385/Travel-itineary-planner/blob/250e09e2fab7db597783ac6e068fdf4cf0cd385d/src/assets/TravelPlanner.png)
 
-<https://github.com/shuence/Travel-World/assets/65482186/69a5ebf9-85d7-4f65-a8a2-066dceebbc24>
+<https://github.com/Sa1385/Travel-itineary-planner/blob/e6a6629193e0917f5131a23bd7ff4201d7c26e7c/src/assets/TravelPlanner%20(1).mp4>
 
 ## Setup
 
