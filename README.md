@@ -22,7 +22,7 @@ A Fullstack Tours & Travels Web App Using MERN Stack 💫
 
 [TravelWorld 🌍](https://travelworldtours.netlify.app/)
 
-![image](https://github.com/shuence/FitClub/assets/65482186/4c863ee9-2e02-4e98-95c0-e122cf91320e)
+![image](https://github.com/Sa1385/Travel-itineary-planner/blob/250e09e2fab7db597783ac6e068fdf4cf0cd385d/src/assets/TravelPlanner.png)
 
 <https://github.com/shuence/Travel-World/assets/65482186/69a5ebf9-85d7-4f65-a8a2-066dceebbc24>
 
