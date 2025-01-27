@@ -146,7 +146,7 @@ const Footer = () => {
             <p className="copyright">
               &copy; {year} Travel World. All Rights Reserved.
               Designed and Developed By{" "}
-              <Link to="https://shuence.netlify.app">CodeShuence</Link>
+             <p>Saini</p>
             </p>
           </Col>
         </Row>
